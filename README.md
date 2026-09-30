@@ -188,8 +188,4 @@ literal reading. Both modes are retained so the difference is inspectable.
 
 ---
 
-## License
 
-Add a license before this repository is cited in a submitted manuscript — without one,
-others may read the code but have no right to run or adapt it, which defeats the purpose of
-publishing it. MIT or BSD-3-Clause is conventional for research code.
